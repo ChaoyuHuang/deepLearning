@@ -1,0 +1,10 @@
+/.ipynb_checkpoints/
+/Data-Files-for-Feature-Selection/
+/dog-cat-full-dataset-master/
+/graph_def_and_weights/
+*.swp
+*.zip
+*.csv
+*.xlsx
+*.pyc
+*.__pycache__
