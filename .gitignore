@@ -8,3 +8,10 @@
 *.xlsx
 *.pyc
 *.__pycache__
+*.gz
+/Malaria-Classification-Using-CNN-master/
+/WISDM_ar_v1.1/
+/Movies-Poster_Dataset-master/
+/Google-Stock-Price-Prediction-Using-RNN---LSTM-master/
+/graph_def_and_weights/
+
